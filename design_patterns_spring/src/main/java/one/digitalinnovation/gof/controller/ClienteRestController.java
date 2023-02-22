@@ -22,7 +22,6 @@ public class ClienteRestController {
 
 
 	@Autowired
-	
 	private ClienteService clienteService;
 	
 	@GetMapping

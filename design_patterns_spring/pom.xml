@@ -11,7 +11,7 @@
 	<groupId>one.digitalinnovation</groupId>
 	<artifactId>design_patterns_spring</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>jar</packaging>
+	<packaging>war</packaging>
 	<name>design_patterns_spring</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
